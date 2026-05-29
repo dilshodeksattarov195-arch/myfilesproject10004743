@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingcetch",
+        "uuid": 23378247,
+        "checksum": "scyoh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
